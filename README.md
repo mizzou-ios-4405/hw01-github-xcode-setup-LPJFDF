@@ -6,6 +6,6 @@ After reading the instructions, update the information below as directed.
 
 
 Name: Luke Johnson
-Course: INFOTC 4405
+Course: INFOTC 4405 
 Section: In Person
-Semester: Spring 2026
+Semester: Spring-2026
